@@ -6,9 +6,9 @@ color:
   saturation: 0.43556056008674204
   rhythmicContrast: 0.06399096013046801
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: michael stokes
